@@ -1,0 +1,28 @@
+.show__info{
+    color: #70757a;
+    font-size : 14px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+}
+.show__results{ 
+    margin: 30px 0 30px 200px;
+    width: 700px;
+}
+.show__title{
+    margin: 7px 0;
+}
+.show__link a{
+    color: #3c4043;
+    text-decoration: none;
+
+}
+.show__title a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.show__title a:hover {
+    text-decoration: underline;
+  }
+.show__description{
+    color: black;
+}
